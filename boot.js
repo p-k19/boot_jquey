@@ -57,5 +57,4 @@ $(document).ready(function()
   
       });
 }); 
-setInterval(nextImg,5000);
 });
